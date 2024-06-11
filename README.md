@@ -40,7 +40,8 @@ Repeat the same with the burn function for updating the totalMarks when required
 
 ## Video Tutorial
 
-[Watch this tutorial video](https://www.loom.com/share/55ae53f9f9e949f49835d5c7388d5464?sid=1a08b9b3-c654-4aa9-9228-ba73dd3a6353) for a walkthrough on how to use the My Assessment Token contract.
+[Watch video](https://www.loom.com/share/4d7aef283e6a46439040fb4e0be3e980?sid=7c9530bd-be76-4d49-9ce9-da5a954762eb): Another tutorial video providing additional guidance.
+
 
 ## Author
 
